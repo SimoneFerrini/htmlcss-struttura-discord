@@ -1,0 +1,60 @@
+.container-center{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+   
+}
+
+#nav-interno{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 80px;
+    
+    background-color: green;
+}
+
+
+#nav-interno ul{
+    list-style-type: none;
+}
+
+#logo {
+   width: 100px;
+   height: 80;
+   background-color: darkgreen;
+}
+
+#link{
+    display: flex;
+    align-items: stretch;
+}
+
+#link ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+ }
+
+ #link li{
+    width: 60px;
+    height: 35px;
+
+    background-color: darkgreen;
+    text-align: center;
+    padding:7px;
+    /*test*/
+ }
+
+ #login {
+    width: 100px;
+    height: 80;
+    background-color: darkgreen;
+    /*test*/
+ }
