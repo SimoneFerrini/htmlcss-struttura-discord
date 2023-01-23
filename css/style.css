@@ -215,6 +215,7 @@ footer p{
 
 footer hr{
     border-color: dodgerblue;
+    margin-bottom: 15px;
 }
 
 .footer-bottom-flex{
