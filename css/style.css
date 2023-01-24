@@ -70,7 +70,7 @@ footer{
     max-width: 700px;
     height: 350px;
     text-align: center;
-    background-color: yellow;
+    
     padding:80px 60px 10px 60px;
 
  }
@@ -80,6 +80,7 @@ footer{
     flex-direction: column;
     align-items: center;
     gap:10px;
+    background-color: yellow;
  }
 
  #intro h1{
