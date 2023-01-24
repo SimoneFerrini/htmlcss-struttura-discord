@@ -225,6 +225,8 @@ footer hr{
 
     padding-top: 5px;
     padding-bottom: 5px;
+
+    background-color: orange;
 }
 
 .footer-bottom-flex img{
